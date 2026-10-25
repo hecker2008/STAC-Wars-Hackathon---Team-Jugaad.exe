@@ -20,8 +20,7 @@ Welcome to our team submission for the STAC WARS Hackathon! This repository cont
 
 ### 🛰️ Problem Statement 3: [Insert Title of PS3]
 - **Folder:** [`/PS3_Astronomy`](./PS3_Astronomy)
-- **Primary Notebook:** `[ps3_notebook_filename].ipynb`
-- **Report:** `[ps3_report_filename].pdf`
+- **Report:** `[ps3_report_astronomy].pdf`
 - **Key Findings & Summary:**
   - [Insert 2-3 key highlights or metrics from your teammate solving PS3]
 
