@@ -20,16 +20,19 @@ Welcome to our team submission for the STAC WARS Hackathon! This repository cont
 
 ### 🛰️ Problem Statement 3: [Insert Title of PS3]
 - **Folder:** [`/PS3_Astronomy`](./PS3_Astronomy)
-- **Report:** `[ps3_report_astronomy].pdf`
+- **Report:** `[PS3_Report_Astronomy].pdf`
 - **Key Findings & Summary:**
-  - [Insert 2-3 key highlights or metrics from your teammate solving PS3]
+  - Used data in the given PS such as Stellar Properties, Brightness Observations, and Constants
+  - Detected exoplanets
+  - Determined Planet size
+  - Determined the Planetary Orbits
+  - Found the most promising world
 
 ---
 
 ### 🌌 Problem Statement 4: [Insert Title of PS4]
 - **Folder:** [`/PS4_Product_Ideathon`](./PS4_Product_Ideathon)
-- **Primary Notebook:** `[ps4_notebook_filename].ipynb`
-- **Report:** `[ps4_report_filename].pdf`
+- **Report:** `project_CENTRIFUGE-Visuals.pptx`
 - **Key Findings & Summary:**
   - [Insert 2-3 key highlights or metrics from your teammate solving PS4]
 
