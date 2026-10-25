@@ -32,9 +32,11 @@ Welcome to our team submission for the STAC WARS Hackathon! This repository cont
 
 ### 🌌 Problem Statement 4: [Insert Title of PS4]
 - **Folder:** [`/PS4_Product_Ideathon`](./PS4_Product_Ideathon)
-- **Report:** `project_CENTRIFUGE-Visuals.pptx`
+- **Report:** `Project_CENTRIFUGE_Visuals.pptx`
 - **Key Findings & Summary:**
-  - [Insert 2-3 key highlights or metrics from your teammate solving PS4]
+  - Subpart A - Engineering: Built the mining architechture
+  - Subpart B - Cost: Designed a cost efficient model
+  - Subpart C - Business: Defined the business parameters and findings and monetization
 
 ---
 
